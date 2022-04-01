@@ -69,12 +69,7 @@ function draw() {
 
 }
   
- if(arrow.isTouching(red)){
-   red.destroy();
-   arrow.destroy():
-   score = score+1;
- }
-
+ 
 
   drawSprites();
 
